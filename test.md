@@ -1,4 +1,4 @@
-# CoderDojo Ponce Springs is the free and fun place where Atlanta's kids learn how to code, supported by mentors and parents
+# CoderDojo Ponce Springs is the free and fun place where Atlanta's kids learn how to code!
 
 In our CoderDojo, students start learning how to:
 
